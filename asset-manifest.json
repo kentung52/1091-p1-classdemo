@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/1091-p1-classdemo/static/css/main.750e0d09.chunk.css",
+    "main.js": "/1091-p1-classdemo/static/js/main.c9227c8f.chunk.js",
+    "main.js.map": "/1091-p1-classdemo/static/js/main.c9227c8f.chunk.js.map",
+    "runtime-main.js": "/1091-p1-classdemo/static/js/runtime-main.ec846226.js",
+    "runtime-main.js.map": "/1091-p1-classdemo/static/js/runtime-main.ec846226.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/1091-p1-classdemo/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js": "/1091-p1-classdemo/static/js/2.0b5b9267.chunk.js",
+    "static/js/2.0b5b9267.chunk.js.map": "/1091-p1-classdemo/static/js/2.0b5b9267.chunk.js.map",
+    "index.html": "/1091-p1-classdemo/index.html",
+    "precache-manifest.abaec7a90f43d6671af86675d17ab99c.js": "/1091-p1-classdemo/precache-manifest.abaec7a90f43d6671af86675d17ab99c.js",
+    "service-worker.js": "/1091-p1-classdemo/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/1091-p1-classdemo/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.750e0d09.chunk.css.map": "/1091-p1-classdemo/static/css/main.750e0d09.chunk.css.map",
+    "static/js/2.0b5b9267.chunk.js.LICENSE.txt": "/1091-p1-classdemo/static/js/2.0b5b9267.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/1091-p1-classdemo/static/media/SEGA.82e09f78.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec846226.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0b5b9267.chunk.js",
+    "static/css/main.750e0d09.chunk.css",
+    "static/js/main.c9227c8f.chunk.js"
+  ]
+}
