@@ -4,6 +4,7 @@ import SearchBox from './SearchBox'
 import Scroll from './Scorll'
 import './App.css'
 
+
 class App extends Component {
     constructor() {
         super();
@@ -14,7 +15,7 @@ class App extends Component {
     }
 
     componentDidMount = () => {
-        fetch('/data/robots.json')
+        fetch(`${process.env.PUBLIC_URL}/data/robots.json`)
             .then(response => response.json())
             .then(users => {
                 console.log('users', users);
